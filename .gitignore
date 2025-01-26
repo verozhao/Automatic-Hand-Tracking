@@ -1,3 +1,9 @@
+mobile_sam.pt
+*.mp4
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
